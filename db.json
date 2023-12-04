@@ -21,6 +21,28 @@
       "cost": 0,
       "services": [],
       "id": 8
+    },
+    {
+      "name": "Projeto teste 3",
+      "budget": "2000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "name": "Projeto teste 5",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 10
     }
   ],
   "categories": [
