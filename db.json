@@ -10,6 +10,17 @@
       "cost": 0,
       "services": [],
       "id": 7
+    },
+    {
+      "name": "Outro teste",
+      "budget": "12000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
     }
   ],
   "categories": [
