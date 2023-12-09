@@ -7,8 +7,15 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 700,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "700",
+          "description": "qlq coisa",
+          "id": "0b3c4363-0c02-4b19-80c2-c1e4227da9ad"
+        }
+      ],
       "id": 7
     },
     {
