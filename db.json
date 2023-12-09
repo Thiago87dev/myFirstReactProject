@@ -18,8 +18,15 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 1500,
+      "services": [
+        {
+          "name": "Contratar dev PHP",
+          "cost": "1500",
+          "description": "Criar formulario de e-mail",
+          "id": "48a11a9a-9616-427d-993b-ed3735240600"
+        }
+      ],
       "id": 8
     },
     {
@@ -40,8 +47,21 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 4299,
+      "services": [
+        {
+          "name": "outro serviço teste",
+          "cost": "299",
+          "description": "qlq outra coisa",
+          "id": "89980305-03fe-4cfa-bd17-2a0845de9df2"
+        },
+        {
+          "name": "Serviço teste",
+          "cost": "4000",
+          "description": "Serviço muito importante para o projeto como um todo",
+          "id": "85455184-fcf6-4e3a-8d30-6360dc6ad08f"
+        }
+      ],
       "id": 10
     }
   ],
