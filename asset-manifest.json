@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Thiago87dev/myFirstReactProject/static/css/main.a856e5a9.css",
-    "main.js": "/Thiago87dev/myFirstReactProject/static/js/main.676e7e8a.js",
-    "static/media/savings.svg": "/Thiago87dev/myFirstReactProject/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
-    "index.html": "/Thiago87dev/myFirstReactProject/index.html",
-    "static/media/loading.svg": "/Thiago87dev/myFirstReactProject/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
-    "main.a856e5a9.css.map": "/Thiago87dev/myFirstReactProject/static/css/main.a856e5a9.css.map",
-    "main.676e7e8a.js.map": "/Thiago87dev/myFirstReactProject/static/js/main.676e7e8a.js.map"
+    "main.css": "/myFirstReactProject/static/css/main.a856e5a9.css",
+    "main.js": "/myFirstReactProject/static/js/main.2c1c31d5.js",
+    "static/media/savings.svg": "/myFirstReactProject/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/myFirstReactProject/index.html",
+    "static/media/loading.svg": "/myFirstReactProject/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.a856e5a9.css.map": "/myFirstReactProject/static/css/main.a856e5a9.css.map",
+    "main.2c1c31d5.js.map": "/myFirstReactProject/static/js/main.2c1c31d5.js.map"
   },
   "entrypoints": [
     "static/css/main.a856e5a9.css",
-    "static/js/main.676e7e8a.js"
+    "static/js/main.2c1c31d5.js"
   ]
 }
